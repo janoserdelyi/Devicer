@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="utf-8"?><boiled>
+<device ua="" type="Unknown" />
+<device ua="(iphone; ios; scale)" type="Phone" />
+<device ua="ahc" type="Desktop" />
+<device ua="airmail cfnetwork darwin" type="Desktop" />
+<device ua="amazon simple notification service agent" type="Desktop" />
+<device ua="app cfnetwork darwin" type="Desktop" />
+<device ua="axios" type="Desktop" />
+<device ua="bunjalloo(nintendo ds;u;en)" type="Desktop" />
+<device ua="bytiye /nutch-2" type="Desktop" />
+<device ua="chrome safari" type="Desktop" />
+<device ua="dalvik (linux; u; android; e6810 build)" type="Phone" />
+<device ua="dalvik (linux; u; android; lm-g710 build)" type="Phone" />
+<device ua="dalvik (linux; u; android; lm-g710vm build)" type="Phone" />
+<device ua="dalvik (linux; u; android; moto z) build)" type="Phone" />
+<device ua="dalvik (linux; u; android; moto z4 build-25-13)" type="Phone" />
+<device ua="dalvik (linux; u; android; pixel 3a build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g930p build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g930v build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g935v build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g950u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g955u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g960u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g965f build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g965u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g973u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-g975u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-j737v build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-n920t build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-n950u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-n960u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-n975u build)" type="Phone" />
+<device ua="dalvik (linux; u; android; sm-s320vl build)" type="Phone" />
+<device ua="desktop" type="Desktop" />
+<device ua="df bot 1" type="Desktop" />
+<device ua="donwload_html (linux) aniruddh@umich.edu" type="Desktop" />
+<device ua="e.ventures investment crawler (eventures.vc)" type="Desktop" />
+<device ua="firefox" type="Desktop" />
+<device ua="googleearth(windows;microsoft windows);en;kml;client:pro;type:default)" type="Desktop" />
+<device ua="httpie" type="Desktop" />
+<device ua="httpscheck (unknown) cfnetwork darwin (x86)" type="Desktop" />
+<device ua="internetwache.org v3" type="Desktop" />
+<device ua="link_thumbnailer" type="Desktop" />
+<device ua="linuxgeturl noahtutt@umich.edu (linux)" type="Desktop" />
+<device ua="lua-resty-http (lua) ngx_lua" type="Desktop" />
+<device ua="lynx opera (unix; u)" type="Desktop" />
+<device ua="mail cfnetwork darwin (x86)" type="Desktop" />
+<device ua="mailgun-16" type="Desktop" />
+<device ua="mediapartners-google" type="Desktop" />
+<device ua="mediatoolkitbot (complaints@mediatoolkit.com)" type="Desktop" />
+<device ua="mobile_anonymous" type="Phone" />
+<device ua="mojolicious (perl)" type="Desktop" />
+<device ua="mozilla" type="Desktop" />
+<device ua="mozilla (5041c) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (5049w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (5065n build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (6062w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (a502dl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (a574bl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (a97 ips) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (alcatel_5008r) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (alcatel_5054o) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (android; mobile) gecko firefox" type="Phone" />
+<device ua="mozilla (android; tablet) gecko firefox" type="Tablet" />
+<device ua="mozilla (ane-lx1 build-lx1;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (asus_p00j) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (asus_x00td) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (asus_x018d) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (asus_z01hd) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (bbb100) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (blu advance 5) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (bnd-l24) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (bnd-l34 build-l34;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (c11_s) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (clt-l09) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (compatible; +centuryb.o.t9gmail.com)" type="Desktop" />
+<device ua="mozilla (compatible; crowdtanglebot)" type="Desktop" />
+<device ua="mozilla (compatible; dataprovider.com;)" type="Desktop" />
+<device ua="mozilla (compatible; dataprovider.com)" type="Desktop" />
+<device ua="mozilla (compatible; evc-batch)" type="Desktop" />
+<device ua="mozilla (compatible; fatboykimcombot; +fatboykim@fatboykim.com)" type="Desktop" />
+<device ua="mozilla (compatible; google-apps-script)" type="Desktop" />
+<device ua="mozilla (compatible; google-site-verification)" type="Desktop" />
+<device ua="mozilla (compatible; hubspot crawler; web-crawlers@hubspot.com; +@operator_contact_url@)" type="Desktop" />
+<device ua="mozilla (compatible; hubspot crawler; web-crawlers@hubspot.com)" type="Desktop" />
+<device ua="mozilla (compatible; mixrankbot; crawler@mixrank.com)" type="Desktop" />
+<device ua="mozilla (compatible; netcraftsurveyagent; +info@netcraft.com)" type="Desktop" />
+<device ua="mozilla (compatible; trendsmapresolver)" type="Desktop" />
+<device ua="mozilla (compatible; twingly recon; twingly.com)" type="Desktop" />
+<device ua="mozilla (compatible; wappalyzer)" type="Desktop" />
+<device ua="mozilla (compatible; win32; winhttp.winhttprequest)" type="Desktop" />
+<device ua="mozilla (compatible;fice; msoffice)" type="Desktop" />
+<device ua="mozilla (compatible;fice)" type="Desktop" />
+<device ua="mozilla (compatible;fw 2.p; windows nt; win64; x64) applewebkit chrome safari edge" type="Desktop" />
+<device ua="mozilla (compatible;impact radius compliance bot)" type="Desktop" />
+<device ua="mozilla (cp3705a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (cp3705as) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (cph1803 build) applewebkit chrome mobile safari opr" type="Phone" />
+<device ua="mozilla (cph1933) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (e6810) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (frd-al00 build-al00;) applewebkit chrome mobile mqqbrowser tbs safari micromessenger nettype language_cn" type="Phone" />
+<device ua="mozilla (g) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (g8141) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (galaxy nexus build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (gm1915) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (gm1917) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (gt-n5110) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (h1a1000) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (h8314) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (hp-tablet; linux; hpwos; u;) applewebkit wosbrowser safari touchpad" type="Tablet" />
+<device ua="mozilla (htc desire 530) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (htc desire 626) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (htc u ultra) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (htc u11) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (htc6535lvw) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (huawei vns-l31) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (hz0010) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (ipad; cpu os 10 like mac os x) adbeat.com applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 10 like mac os x) applewebkit mobile" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 10 like mac os x) applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 11 like mac os x) applewebkit mobile" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 11 like mac os x) applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 12 like mac os x) applewebkit crios mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 12 like mac os x) applewebkit gsa mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 12 like mac os x) applewebkit mobile" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 12 like mac os x) applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 13 like mac os x) applewebkit gsa mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 13 like mac os x) applewebkit mobile" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 13 like mac os x) applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 9 like mac os x) applewebkit crios mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 9 like mac os x) applewebkit mobile" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 9 like mac os x) applewebkit mobile 3 safari" type="Tablet" />
+<device ua="mozilla (ipad; cpu os 9 like mac os x) applewebkit mobile safari" type="Tablet" />
+<device ua="mozilla (ipad; u; cpu os 3 like mac os x;) applewebkit mobile safari-10-16 20:23:10" type="Tablet" />
+<device ua="mozilla (iphone; cpu iphone os 10 like mac os x) applewebkit crios mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 10 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 10 like mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 11 like mac os x) applewebkit gsa mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 11 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 11 like mac os x) applewebkit mobile instagram 113 (iphone6; ios; en_us; scale; 640x1136;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 11 like mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit crios mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit fxios mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit gsa mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 108 (iphone8; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 110 (iphone9; ios; en_us; en; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 111 (iphone10; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 112 (iphone10; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 113 (iphone8; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 115 (iphone11; ios; en_us; scale; 828x1792;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 115 (iphone7; ios; en_us; scale; 750x1331;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 119 (iphone11; ios; en_us; scale; 828x1792;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile instagram 85 (iphone10; ios; en_us; scale; gamut=wide; 750x1334;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile main%2f1 baiduboxapp (baidu; p2)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 12 like mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit crios mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit gsa mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 115 (iphone10; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 116 (iphone10; ios; en_us; scale; 1125x2436;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 116 (iphone11; ios; en_us; scale; 1242x2688;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 116 (iphone11; ios; en_us; scale; 828x1792;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 117 (iphone11; ios; en_us; scale; 1242x2688;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 118 (iphone10; ios; en_us; scale; 1080x1920;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 120 (iphone11; ios; en_us; scale; 1125x2436;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile instagram 120 (iphone11; ios; en_us; scale; 828x1792;)" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 13 like mac os x) applewebkit mobile twitter for iphone" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 9 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (iphone; cpu iphone os 9 like mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (iphone; u; cpu iphone os 4 like mac os x;) applewebkit" type="Phone" />
+<device ua="mozilla (iphone; u; cpu iphone os 4 like mac os x;) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (ipod touch; cpu iphone os 11 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (ipod touch; cpu iphone os 12 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (ipod touch; cpu iphone os 13 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (ipod touch; cpu iphone os 9 like mac os x) applewebkit mobile" type="Phone" />
+<device ua="mozilla (jsn-l22 build-l22;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (k88) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfarwi) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (kfauwi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfauwi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kfdowi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfdowi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kffowi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kffowi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kfgiwi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfgiwi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kfkawi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfkawi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kfmuwi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfmuwi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kfsawi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfsowi build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (kfsuwi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfsuwi) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (kftbwi) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kfthwi build) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (kftt) applewebkit silk like chrome safari" type="Tablet" />
+<device ua="mozilla (lenovo pb2-690y) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lenovo tab 2 a8-50f) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (lg-d415) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-g710) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h443) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h700) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h830) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h871) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h872) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h901) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h910) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h918) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h931) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-h932) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-k330) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-k371) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-k450) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-k550) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m150) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m153) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m210) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m255) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m257) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m327) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m430) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-m430) applewebkit chrome mobile safari instagram 111 android ; 320dpi; 720x1199; lge; lg-m430; sf317; sf317; en_us;)" type="Phone" />
+<device ua="mozilla (lg-q710al) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lg-q710pl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl157bl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl158vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl164vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl44vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl52vl build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl62vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl64vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl82vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgl84vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgls676) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgls755) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgls775) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgls992) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgmp260) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgmp450) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgms210) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgms550) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgus215) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lgus997) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;200) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;260) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;450) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;777) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;993) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;996) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android;998) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; android) applewebkit chrome mobile safari duckduckgo" type="Phone" />
+<device ua="mozilla (linux; android) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; eml-al00 build-al00) applewebkit chrome baidu.sogo.uc.ucbrowser uws mobile safari aliapp(dingtalk) com.alibaba.android.rimet channel language-cn" type="Phone" />
+<device ua="mozilla (linux; u; android; f5121 build) applewebkit ucbrowser mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; galaxy s ii build) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; htc_tattoo_a3288 build) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; kfot build) applewebkit safari" type="Tablet" />
+<device ua="mozilla (linux; u; android; kftt build) applewebkit safari" type="Phone" />
+<device ua="mozilla (linux; u; android; sc-06d build) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; sm-n900t build) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; sm-n900v build) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (linux; u; android; sm-t110 build) applewebkit safari" type="Tablet" />
+<device ua="mozilla (lm-g710) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-g710vm) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-g820) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q610(fgn)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q710.fg) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q710.fgn) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q710(fgn)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q720) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-q850) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-v350) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-v405) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x210(g)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x210) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x210apm) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x210cm) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x210vpp) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x212(g)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x220) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x220pm) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x220qma) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410.f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410.fg) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410.fgn) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410(fg)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410pm) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x410um) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lm-x420) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lml211bl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lml212vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lml414dl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lml414dl) applewebkit chrome mobile safari instagram 112 android ; 320dpi; 720x1196; lge; lml414dl; cv3; cv3; en_us;)" type="Phone" />
+<device ua="mozilla (lml713dl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (lya-l09 build-l09;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (macintosh; intel mac os x) adbeat.com applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit mobile safari" type="Phone" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit safari" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit safari facebookexternalhit facebot twitterbot" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) applewebkit+ safari" type="Desktop" />
+<device ua="mozilla (macintosh; intel mac os x) gecko firefox" type="Desktop" />
+<device ua="mozilla (macintosh; u; intel mac os x;) applewebkit safari" type="Desktop" />
+<device ua="mozilla (macintosh; u; intel mac os x;) applewebkit+ safari" type="Desktop" />
+<device ua="mozilla (macintosh; u; intel mac os x;) gecko" type="Desktop" />
+<device ua="mozilla (macintosh; u; intel mac os x) applewebkit chrome safari edge" type="Desktop" />
+<device ua="mozilla (mar-lx3a build-l03a;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (mi 8 lite) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (mi a1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (mi a2 lite) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (mi) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (micromax bharat 5 plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (micromax c1a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e) build-64-11;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e) build-64;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e) plus build-45;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e) plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 (xt1920dl) build-26;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 cruise build-157;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 cruise build-32;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 cruise build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 cruise) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 go build-22-5;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-121;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-140;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-150-5-1;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-150-5-1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-150-5;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-150;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play build-157-9;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 play) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 plus build-150-9;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 plus build-150;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 plus build-51;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 supra build-164;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e5 supra) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e6 build-65-3;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e6 build-65;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e6 build-81;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto e6) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g (5s) plus build-36-11;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g (5s) plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g play) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) (xt1925dl) build-15-11;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build-11;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build-134;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build-14;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build-15-11;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build-15;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) build) applewebkit chrome mobile safari ptst" type="Phone" />
+<device ua="mozilla (moto g) forge build-62;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) forge) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) optimo (xt1952dl) build-134;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-134;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-150) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-150) applewebkit chrome yabrowser mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-17-1;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-17;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-38;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build-38;) applewebkit chrome mobile safari instagram 116 android ; 320dpi; 720x1344; motorola; moto g) play; jeter; qcom; en_us;)" type="Phone" />
+<device ua="mozilla (moto g) play build-57;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) play) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) plus build-17;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) plus build-93;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) power build-134;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) power) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) supra build-134;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g) supra) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto g)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto x4 build-39-2;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto x4 build-39-6;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto x4 build-39;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto x4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z) build-40;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z) build-47;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z) build-51-14;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z) build-59-8;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z)) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z3 build-42;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z3 play build-27-1;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z3 play build-29-1;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z3) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z4 build-25;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (moto z4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (motog3 build-25;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (n9560) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nami) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (nexus 5 build) applewebkit (khtml, like gecko; googleweblight) chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 5 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 5 build) applewebkit chrome mobile safari chrome-lighthouse" type="Phone" />
+<device ua="mozilla (nexus 5x build) applewebkit chrome mobile safari (compatible; google-amphtml)" type="Phone" />
+<device ua="mozilla (nexus 5x) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 6) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 6p build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 6p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nexus 7) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (nexus) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (nokia 3 a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nokia 3 c) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nokia 3 plus) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nokia 6) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (nokia 7) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (ona19tb003) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (oneplus a3000) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (oneplus a5000) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (oneplus a6003) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (oneplus a6013) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (p00i) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (p902) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (padm00) applewebkit chrome mobile safari t7gine baiduboxapp (baidu; p1)" type="Phone" />
+<device ua="mozilla (pclm10) applewebkit chrome mobile safari t7gine baiduboxapp (baidu; p1)" type="Phone" />
+<device ua="mozilla (ph-1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 2 xl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 2) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 3 xl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 3) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 3a xl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 3a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 4 xl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel 4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel xl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pixel) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (playstation 4) applewebkit" type="Desktop" />
+<device ua="mozilla (playstation vita) applewebkit silk" type="Phone" />
+<device ua="mozilla (playstation;)" type="Desktop" />
+<device ua="mozilla (plus build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (pocophone f1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (qmv7a) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (qs5509a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (qtair7) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (qtasun1) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (rc555l) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (rct6773w22b build) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (rct6a03w13) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (redmi note 4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi note 5) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi note 7 pro) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi note 7) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi note 7s) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi note) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (redmi) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (revvl) applewebkit chrome mobile safari edga" type="Phone" />
+<device ua="mozilla (revvlplus c3701a build-tmo;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (revvlry build-56;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (rmx1805) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (rs988) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (s48c) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung chromebook plus) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (samsung sm-a102u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-a105m) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g550t1) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g890a) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g891a build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g891a) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g892a) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g920p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g920t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g925p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g925r7) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g930a build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g930f) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g930p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g930t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g950u build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g950u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g950u1 build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g950u1) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g955f build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g955u build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g955u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g960u build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g960u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g965u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g970u build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g970u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g970u1) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g973u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-g975u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j320a build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j327r7) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j327t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j337a) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j337t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j700t build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j700t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j710f) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727a build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727a) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727az build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727az) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727r4) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727t build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j727t1) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j737p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j737t build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-j737t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n920p) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n920t) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n920v) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n950u build) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n950u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n960u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-n975u) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-s367vl) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-s767vl) applewebkit samsungbrowser chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung sm-t290 build) applewebkit samsungbrowser chrome safari" type="Tablet" />
+<device ua="mozilla (samsung sm-t550) applewebkit samsungbrowser chrome safari" type="Tablet" />
+<device ua="mozilla (samsung sm-t580) applewebkit samsungbrowser chrome safari" type="Tablet" />
+<device ua="mozilla (samsung sm-t597v build) applewebkit samsungbrowser chrome safari" type="Tablet" />
+<device ua="mozilla (samsung sm-t720) applewebkit samsungbrowser chrome mobile safari" type="Tablet" />
+<device ua="mozilla (samsung-sgh-i337 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sgh-i337) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g870a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g890a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g891a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g900a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g900az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g920a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g925a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g930a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g930az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-g935a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j120a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j120az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j320a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j327a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j327az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j727a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-j727az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-n900a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-n910a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-n920a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-t337a) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (samsung-sm-t377a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (samsung-sm-t377a) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (samsung-sm-t677a) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sch-i435 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sch-i545) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a102u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a105f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a205u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a505g) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a505u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a520f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a530w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600fn) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-a600t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g360v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g530t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g532g build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g550t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g890a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g892a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g892u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g900t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g900v build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g900v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920v build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g920v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g925f build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g925r7) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g925t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g925v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g928t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930v build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g930vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g935p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g935r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g935t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g935u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g935v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g950f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g950n) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g950u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g950u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g955u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g955u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g960f build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g960f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g960u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g960u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g960w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g965f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g965u build) applewebkit chrome mobile safari (ecosia android)" type="Phone" />
+<device ua="mozilla (sm-g965u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g965u) applewebkit chrome mobile safari instagram 115 android ; 480dpi; 1080x2076; samsung; sm-g965u; star2qltesq; qcom; en_us;)" type="Phone" />
+<device ua="mozilla (sm-g965u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g970u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g970u1 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g970u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g973f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g973u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g973u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g973w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g975f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g975u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g975u) applewebkit chrome mobile safari instagram 115 android ; 420dpi; 1080x2047; samsung; sm-g975u; beyond2q; qcom; en_us;)" type="Phone" />
+<device ua="mozilla (sm-g975u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-g977u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j120m) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j260a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j260az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j260t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j320p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j320r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j320v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327r7) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327t1 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j327vpp) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j330g) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337az) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j337v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j530f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j700h) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j700p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j700t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j700t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j727v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737a) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737t1 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737t1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j737v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j810g) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-j810m) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n900) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n900t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n910p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n910v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n920p) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n920r4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n920t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n920v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n950f) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n950u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n950u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n960u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n960u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n960w) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n970u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n970u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n9750) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n975u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n975u1) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-n976v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-p550) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (sm-p580) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (sm-p600) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (sm-s320vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s327vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s357bl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s367vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s727vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s757bl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s767vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s820l build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s820l) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s903vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s907vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s920l) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-s975l) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sm-t237p) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t280) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t310 build) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t350) applewebkit chrome mobile safari" type="Tablet" />
+<device ua="mozilla (sm-t350) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t357t) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t377r4) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t377v) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t378v) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t380) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t387aa) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t387v) applewebkit chrome mobile safari" type="Tablet" />
+<device ua="mozilla (sm-t387v) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t510) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t530nu) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t550) applewebkit chrome mobile safari" type="Tablet" />
+<device ua="mozilla (sm-t550) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t560nu) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t580) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t590) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t597v) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t710) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t713) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t720) applewebkit chrome mobile safari" type="Tablet" />
+<device ua="mozilla (sm-t720) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t800) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t810) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t813) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t820) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t830) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sm-t860) applewebkit chrome safari" type="Tablet" />
+<device ua="mozilla (sne-lx3) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sov33 build) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (sph-l720t) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (tecno cf8) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (u683cl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (unknown; linux x86) applewebkit phantomjs safari" type="Desktop" />
+<device ua="mozilla (vivo xi+) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vivo xl4) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vivo) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vk700 build) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (vk700) applewebkit chrome safari" type="Phone" />
+<device ua="mozilla (vog-l29 build-l29;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vog-l29) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs425pp) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs500) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs500pp) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs501) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs835) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs880) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs985 4g) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs986) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs987) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs988) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs995) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (vs996) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (w-u300) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (was-lx2) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (windows nt; win64; x64)" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) adbeat.com applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) adbeat.com applewebkit chrome safari edge" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit (khtml, gecko) chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari edge" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari edge mozilla" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari edge,gzip(gfe)" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari em client" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari opr" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) applewebkit chrome safari,gzip(gfe)" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64) gecko firefox" type="Desktop" />
+<device ua="mozilla (windows nt; win64; x64)applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64; x64) applewebkit chrome safari opr" type="Desktop" />
+<device ua="mozilla (windows nt; wow64; x64) applewebkit safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) adbeat.com gecko firefox" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit (khtml, like gecko) chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome adg aolbuild safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari 2345explorer" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari alexatoolbar-3" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari asw" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari core qqbrowser" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari opr" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari opr (edition yx)" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari se 2.x metasr 1" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome safari vivaldi" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome taobrowser safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit chrome yabrowser yowser safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit coc_coc_browser chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit downloaderchrome safari" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit safari phantomjs (phantomjscloud.com)" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) applewebkit+ bingpreview" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) gecko firefox" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) gecko thunderbird" type="Desktop" />
+<device ua="mozilla (windows nt; wow64) goanna palemoon" type="Desktop" />
+<device ua="mozilla (windows nt;en-us) applewebkit (khtml, live gecko) chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt) adbeat.com applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit chrome safari edg" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit chrome safari kinza" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit chrome safari se 2.x metasr 1" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit chrome yabrowser yowser safari" type="Desktop" />
+<device ua="mozilla (windows nt) applewebkit safari" type="Desktop" />
+<device ua="mozilla (windows nt) gecko firefox" type="Desktop" />
+<device ua="mozilla (windows nt) gecko firefox (via ggpht.com googleimageproxy)" type="Desktop" />
+<device ua="mozilla (windows; u; win 9x; sg) gecko netscape" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt; fr) gecko firefox" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt; ru) gecko" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt;) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt;) applewebkit chrome safari hubspot marketing grader" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt;) applewebkit safari" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt) gecko" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt) gecko firefox" type="Desktop" />
+<device ua="mozilla (windows; u; windows nt) gecko k-ninja" type="Desktop" />
+<device ua="mozilla (x11; cros aarch64) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; cros armv7l) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; cros x86) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; datanyze; linux x86) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; fedora; linux x86) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; freebsd) khtml (like gecko) konqueror" type="Desktop" />
+<device ua="mozilla (x11; linux amd64) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux armv7l) applewebkit chrome safari crkey" type="Desktop" />
+<device ua="mozilla (x11; linux i586) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; linux i686 (x86)) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux i686) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux i686) applewebkit qt safari" type="Desktop" />
+<device ua="mozilla (x11; linux i686) applewebkit safari ubuntu (3-0ubuntu3) epiphany" type="Desktop" />
+<device ua="mozilla (x11; linux i686) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit (khtml, like gecko; google page speed insights) chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari (compatible; backlinkcheckv3)" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari chrome-lighthouse" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari google favicon" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari opr" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit chrome safari ptst" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit qt safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit qupzilla safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit rekonq safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit splashsafari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) applewebkit ubuntu chromium chrome safari" type="Desktop" />
+<device ua="mozilla (x11; linux x86) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; linux x86) gecko thunderbird lightning" type="Desktop" />
+<device ua="mozilla (x11; openbsd i386) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; u; linux i686) gecko" type="Desktop" />
+<device ua="mozilla (x11; u; linux x86;) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla (x11; ubuntu; linux i686) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; ubuntu; linux x86) adbeat.com gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; ubuntu; linux x86) gecko firefox" type="Desktop" />
+<device ua="mozilla (x11; ubuntu; linux x86) whatcms" type="Desktop" />
+<device ua="mozilla (xt1068 build) applewebkit chrome mobile safari opr" type="Phone" />
+<device ua="mozilla (xt1254 build-5;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1254) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1565) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1635-01 build-12-30-8;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1635-02 build-12-22;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1650 build-23-13-6;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1650 build-69-6;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1650) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (xt1710-02 build-12-42;) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z5151v) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z558vl) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z835) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z839) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z851m) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z855) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z956) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z981) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z982) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (z983 build) applewebkit chrome mobile crosswalk mobile safari" type="Phone" />
+<device ua="mozilla (z983) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla (zte a2017u) applewebkit chrome mobile safari" type="Phone" />
+<device ua="mozilla mozilla (windows nt) applewebkit chrome safari" type="Desktop" />
+<device ua="mozilla(linux;android;oppo a33wv) applewebkit(khtml,link gecko)chrome mobile safari liebaofast" type="Phone" />
+<device ua="mozilla(linux;android;oppo a33wv) applewebkit(khtml,link gecko)chrome mobile safari mb2345browser" type="Phone" />
+<device ua="mozilla(linux;u;android;zh-cn;oppo a33 build) applewebkit(khtml,like gecko)chrome ucbrowser mobile safari" type="Phone" />
+<device ua="mozlila (sm-g892a bulid;) applewebkit chrome moblie safari" type="Phone" />
+<device ua="nestinyrealty scrapercore (janos erdelyi) apiinterface" type="Desktop" />
+<device ua="netsystemsresearch studies the availability of various services across the internet. our website is netsystemsresearch.com" type="Desktop" />
+<device ua="opera (macintosh; intel mac os x; u; de) presto" type="Desktop" />
+<device ua="opera (s60; symbos; opera mobi; u; ru) presto" type="Desktop" />
+<device ua="opera (windows nt; u; de) presto" type="Desktop" />
+<device ua="opera (windows nt; u; en) presto" type="Desktop" />
+<device ua="opera (windows nt; u; it) presto" type="Desktop" />
+<device ua="opera (windows nt; u; sv) presto" type="Desktop" />
+<device ua="opera (windows nt; u;) presto" type="Desktop" />
+<device ua="opera (windows nt; wow64) presto" type="Desktop" />
+<device ua="opera (windows nt) presto" type="Desktop" />
+<device ua="opera (x11; linux i686; u; fr) presto" type="Desktop" />
+<device ua="opera (x11; linux i686; u; it) presto" type="Desktop" />
+<device ua="opera (x11; linux i686; u; ru) presto" type="Desktop" />
+<device ua="opera (x11; linux i686; u;) presto" type="Desktop" />
+<device ua="opera (x11; linux i686; ubuntu) presto" type="Desktop" />
+<device ua="opera (x11; linux x86; u; fr) presto" type="Desktop" />
+<device ua="outlook-ios)" type="Desktop" />
+<device ua="sonyericssonw660i browser/3 profile-2 configuration-1" type="Desktop" />
+<device ua="spark cfnetwork darwin" type="Desktop" />
+<device ua="symfony browserkit" type="Desktop" />
+<device ua="whatweb-dev" type="Desktop" />
+<device ua="win7ie80" type="Desktop" />
+</boiled>
