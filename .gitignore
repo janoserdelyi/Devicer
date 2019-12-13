@@ -6,3 +6,5 @@ sql/
 packages/
 changelog*.txt
 build.log
+package.sh
+
